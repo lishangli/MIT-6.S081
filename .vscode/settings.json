@@ -1,0 +1,47 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "C_Cpp_Runner.cCompilerPath": "/usr/bin/gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "files.associations": {
+    "types.h": "c"
+  },
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/lishangli/core/xv6-labs-2021/kernel",
+      "binaryPath": "/home/lishangli/core/xv6-labs-2021/kernel/kernel",
+      "binaryArgs": []
+    },
+    {
+      "cwd": "/home/lishangli/core/xv6-labs-2021/user",
+      "binaryPath": "/home/lishangli/core/xv6-labs-2021/user/initcode.out",
+      "binaryArgs": []
+    }
+  ]
+}
